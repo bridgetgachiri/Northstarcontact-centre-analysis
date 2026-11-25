@@ -46,6 +46,13 @@ This analysis investigates four areas:
 
 ---
 
+## Executive Dashboard Preview
+
+[Executive Dashboard](./NorthstarDashboard.png)
+
+[Download the Excel Dashboard](./contact_centre_dashboard.xlsx)
+
+---
 ## Dataset
 
 The project uses a simulated contact centre dataset created for analytical and portfolio purposes. It does not contain real customer, employee, or company data.
